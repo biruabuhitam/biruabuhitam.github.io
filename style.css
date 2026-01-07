@@ -35,7 +35,7 @@ body {
 }
 .player {
   background-image:linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),
-   url("./dist/IMG-20250117-WA0031.jpg");
+   url("./dist/");
   width: auto;
   min-height: auto;
   background-position: center;
